@@ -1,2 +1,2 @@
 # Insight-Team-2018
-Credit Card Fraud Analysis
+A credit card fraud detection algorithm. Created under mentorship by IBM Chief Analytics Office.
